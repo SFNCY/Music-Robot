@@ -131,7 +131,7 @@ AddOutputFilter chunkFilter
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Item Name="共享变量.lvlib" Type="Library" URL="../共享变量.lvlib"/>
 		<Item Name="下位机.vi" Type="VI" URL="../下位机.vi"/>
-		<Item Name="动作测试.vi" Type="VI" URL="../../../版本控制/V0.0.20170113/沉迷输出无法自拔/动作测试.vi"/>
+		<Item Name="动作测试.vi" Type="VI" URL="../动作测试.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Calculate Clock Settings.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/Utilities/vis/Calculate Clock Settings.vi"/>
